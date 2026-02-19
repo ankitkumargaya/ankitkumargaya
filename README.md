@@ -1,69 +1,118 @@
 # 👋 Hi, I’m Ankit Kumar
 
-**Data Analyst | Excel • Power BI • SQL • Python (Basic) • AI-Assisted Analytics**
+**Data Analyst | SQL • Power BI • Excel • Python • AWS • Business Analytics**
 
-I transform raw data into clear insights, interactive dashboards, and decision-ready reports.  
-I also use AI assistance to work smarter, faster, and more efficiently 🚀
+I turn raw data into actionable insights, dashboards, and business decisions.  
+Focused on solving real-world analytics problems across E-Commerce, Telecom, HR, and Healthcare domains.
 
 ---
 
 ## 🔹 About Me
 
-- Aspiring Data Analyst with strong hands-on project experience  
-- Skilled in Excel, Power BI, SQL (MySQL), and Python (Basic)  
-- Experience in DAX, Data Modeling, and Interactive Dashboards  
-- Strong understanding of data cleaning and business KPIs  
+• Entry-level Data Analyst with strong project-based experience  
+• Skilled in SQL, Power BI, Excel, Python, and AWS (S3 + Athena)  
+• Experienced working with 50K+ row datasets and business KPIs  
+• Interested in Product Analytics, Customer Behavior, and Revenue Insights  
+• Focused on solving business problems — not just building dashboards  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Skills
 
 ### 📊 Data Analysis & Visualization
-- Excel (Power Query, Pivot Tables, Dashboards)  
-- Power BI (DAX, Data Modeling, Reports)  
+• Power BI (DAX, Data Modeling, KPI Dashboards)  
+• Excel (Power Query, Pivot Tables, Reporting)
 
-### 🗄️ Databases
-- SQL (MySQL): Joins, Subqueries, Aggregations, Business Queries  
+### 🗄️ Databases & Querying
+• SQL / MySQL  
+• Joins, CTEs, Window Functions, Aggregations  
+• Business metric queries  
 
-### 🐍 Programming (Basic)
-- Python – Pandas, NumPy (data cleaning & basic analysis)  
-- Visualization – Matplotlib, Seaborn (basic charts)  
+### 🐍 Programming
+• Python (Pandas, NumPy – Data Cleaning & Preparation)
+
+### ☁️ Cloud Analytics
+• AWS S3 (data storage)  
+• Amazon Athena (SQL on S3 datasets)
+
+### 📈 Business Metrics
+• Churn Analysis  
+• Retention & Cohort Analysis  
+• Funnel Analysis  
+• LTV, AOV, CAC  
+• DAU / MAU Tracking  
 
 ### 🤖 AI-Assisted Analytics
-- AI support for data understanding and logic validation  
-- Helps speed up analysis and improve decision quality  
+• Used AI tools to optimize SQL queries and DAX logic  
+• Accelerated analysis and improved workflow efficiency  
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Projects
 
-## 🛍️ E-Commerce Analytics Dashboard  
-**(SQL | Python | Power BI)**
+---
 
-🔗 **LinkedIn Project Post**  
-https://www.linkedin.com/posts/ankit5517_powerbi-dataanalytics-sql-activity-7395879431942094848-9eQr
+## 🛍️ E-Commerce Sales & Customer Analytics
 
-### Project Overview
-Built a multi-page E-Commerce analytics dashboard using SQL, Python (basic), and Power BI to analyze sales, customers, and product performance.
+**Tools:** SQL | Python | Power BI | AWS S3 | Athena  
 
-### Data Preparation & Analysis
-- Cleaned and prepared raw data using SQL  
-- Used Python (basic) to understand data structure  
-- Handled missing values and formatting  
-- Worked with Pandas & NumPy  
+**Goal:** Understand sales performance, retention, and product profitability.
 
-### Power BI Dashboard
-- Star Schema data model  
-- Sales Growth (MoM, YoY)  
-- AOV, Profit Margin, Discount Analysis  
-- Drill-Down, Drill-Through, RLS  
+**What I did**
+• Processed 50K+ transactions using SQL and Power Query  
+• Stored datasets in AWS S3 and queried using Athena  
+• Built star-schema model and DAX KPIs (Revenue, AOV, LTV, Growth)  
+• Performed cohort analysis, retention tracking, and funnel analysis  
+• Designed interactive dashboards with filters and drill-downs  
+
+**Impact**
+• Identified repeat customers as major revenue drivers  
+• Highlighted top regions and profitable categories  
+• Improved visibility into retention patterns  
+
+---
+
+## 📱 Telecom Customer Churn Analysis
+
+**Tools:** SQL | Power BI | Python | Excel  
+
+**Goal:** Identify churn drivers and revenue impact.
+
+**What I did**
+• Cleaned 60K+ customer records using SQL and Python  
+• Built churn classification logic and retention metrics  
+• Calculated KPIs: Churn Rate, ARPU, LTV, Tenure Cohorts  
+• Created dashboards tracking churn by usage and complaints  
+
+**Impact**
+• Identified high-risk customer segments  
+• Highlighted revenue leakage patterns supporting retention actions  
+
+---
+
+## 👩‍💼 HR Analytics Dashboard
+
+**Tools:** SQL | Power BI | Excel  
+
+Analyzed employee attrition, salary distribution, and workforce trends.  
+Identified departments with higher turnover to support workforce planning.
+
+---
+
+## 🏥 Healthcare Analytics
+
+**Tools:** SQL | Power BI  
+
+Analyzed hospital revenue distribution and patient trends.  
+Improved visibility into high-performing departments.
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/ankitkumar818  
-- Email: ankitkumargaya@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/ankit5517  
+📧 Email: ankitkumargaya@gmail.com  
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning. Always building. Always improving.
