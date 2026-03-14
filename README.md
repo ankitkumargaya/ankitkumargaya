@@ -1,46 +1,59 @@
-# 👋 Hi, I’m Ankit Kumar
+👋 Hi, I’m Ankit Kumar
 
-**Data Analyst | SQL • Power BI • Excel • Python • AWS (S3 + Athena)**  
+Data Analyst | SQL • Power BI • Excel • Python • Databricks • Spark SQL • AWS (S3 + Athena)
 
-I transform raw data into actionable insights, dashboards, and business decisions.  
-Focused on solving real-world analytics problems across E-Commerce, Telecom, HR, and Healthcare domains.
+I analyze complex datasets and transform them into business insights, dashboards, and data-driven decisions.
+My focus is solving real business problems using data, particularly in E-Commerce, Customer Analytics, and Product Performance analysis.
+
+I enjoy working across the full analytics workflow — data cleaning → analysis → modeling → visualization → insight generation.
+
+🔍 About Me
+
+• Entry-level Data Analyst with strong hands-on project experience
+• Experienced analyzing 50K+ row datasets and real business KPIs
+• Skilled in SQL analytics, dashboard development, and data storytelling
+• Interested in Product Analytics, Customer Behavior, Retention, and Revenue Insights
+• Passionate about turning messy raw data into decision-ready insights
+
+🛠️ Tech Stack
+📊 Data Visualization
+
+• Power BI — DAX, KPI dashboards, data modeling, interactive reports
+• Excel — Power Query, Pivot Tables, business reporting
+
+🗄️ Data Querying & Processing
+
+• SQL / MySQL — Joins, CTEs, Window Functions, Aggregations
+• Spark SQL (Databricks) — large-scale data analysis
+
+☁️ Cloud & Data Platforms
+
+• Databricks — Lakehouse analytics, distributed query processing
+• AWS S3 — data lake storage
+• Amazon Athena — SQL analytics on S3 data lake
+
+🐍 Programming
+
+• Python — Pandas, NumPy (data cleaning and preparation)
+
+📊 Key Analytics Skills
+
+• Customer Retention Analysis
+• Cohort Analysis & Churn Analysis
+• Business KPI Tracking
+• Revenue & Profit Analysis
+• Data Cleaning & Transformation
+• Data Modeling & Dashboard Design
+• Data Storytelling for business decisions
 
 ---
 
-## 🔹 About Me
+## 🎯 What I Focus On
 
-• Entry-level Data Analyst with strong hands-on project experience  
-• Skilled in SQL, Power BI, Excel, Python, and AWS analytics stack  
-• Experienced working with 50K+ row datasets and business KPIs  
-• Strong interest in Product Analytics, Customer Behavior, and Revenue Insights  
-• Focused on solving business problems — not just building dashboards  
-
----
-
-## 🛠️ Tools & Skills
-
-### 📊 Data Analysis & Visualization
-• Power BI (DAX, Data Modeling, KPI Dashboards)  
-• Excel (Power Query, Pivot Tables, Reporting)
-
-### 🗄️ Databases & Querying
-• SQL / MySQL (Joins, CTEs, Window Functions, Aggregations)
-
-### ☁️ Cloud Analytics
-• AWS S3 (Data Storage)  
-• Amazon Athena (SQL on Data Lake)
-
-### 🐍 Programming for Data
-• Python (Pandas, NumPy — Data Cleaning & Preparation)
-
----
-
-## 📌 What I Focus On
-
-• Customer behavior & retention analysis  
-• Business KPI tracking & performance reporting  
-• Data cleaning, modeling, and dashboard storytelling  
-• Turning messy data into decision-ready insights  
+• Solving real business problems with analytics
+• Building professional dashboards and reports
+• Understanding customer behavior and product performance
+• Delivering data-driven recommendations
 
 ---
 
