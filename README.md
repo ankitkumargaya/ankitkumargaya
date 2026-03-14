@@ -1,4 +1,4 @@
-##👋 Hi, I’m Ankit Kumar
+## 👋 Hi, I’m Ankit Kumar
 
 Data Analyst | SQL • Power BI • Excel • Python • Databricks • Spark SQL • AWS (S3 + Athena)
 
@@ -7,7 +7,7 @@ My focus is solving real business problems using data, particularly in E-Commerc
 
 I enjoy working across the full analytics workflow — data cleaning → analysis → modeling → visualization → insight generation.
 
-🔍 About Me
+##  🔍 About Me
 
 • Entry-level Data Analyst with strong hands-on project experience
 • Experienced analyzing 50K+ row datasets and real business KPIs
@@ -15,7 +15,7 @@ I enjoy working across the full analytics workflow — data cleaning → analysi
 • Interested in Product Analytics, Customer Behavior, Retention, and Revenue Insights
 • Passionate about turning messy raw data into decision-ready insights
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 📊 Data Visualization
 
 • Power BI — DAX, KPI dashboards, data modeling, interactive reports
@@ -26,17 +26,17 @@ I enjoy working across the full analytics workflow — data cleaning → analysi
 • SQL / MySQL — Joins, CTEs, Window Functions, Aggregations
 • Spark SQL (Databricks) — large-scale data analysis
 
-☁️ Cloud & Data Platforms
+## ☁️ Cloud & Data Platforms
 
 • Databricks — Lakehouse analytics, distributed query processing
 • AWS S3 — data lake storage
 • Amazon Athena — SQL analytics on S3 data lake
 
-🐍 Programming
+## 🐍 Programming
 
 • Python — Pandas, NumPy (data cleaning and preparation)
 
-📊 Key Analytics Skills
+## 📊 Key Analytics Skills
 
 • Customer Retention Analysis
 • Cohort Analysis & Churn Analysis
