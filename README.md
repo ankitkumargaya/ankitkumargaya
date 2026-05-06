@@ -1,63 +1,176 @@
-## 👋 Hi, I’m Ankit Kumar
+# 👋 Hi, I'm Ankit Kumar
 
-Data Analyst | SQL • Power BI • Excel • Python • Databricks • Spark SQL • AWS (S3 + Athena)
+## 🚀 Data Analyst | SQL • Power BI • Python • Databricks • Spark SQL • AWS
 
-I analyze complex datasets and transform them into business insights, dashboards, and data-driven decisions.
-My focus is solving real business problems using data, particularly in E-Commerce, Customer Analytics, and Product Performance analysis.
+I am a Data Analyst focused on transforming raw data into actionable business insights through analytics, dashboarding, and storytelling.
 
-I enjoy working across the full analytics workflow — data cleaning → analysis → modeling → visualization → insight generation.
+My expertise includes:
 
-##  🔍 About Me
+- SQL analytics & KPI reporting
+- Interactive dashboard development in Power BI
+- Customer retention & cohort analysis
+- Product & revenue analytics
+- Data cleaning and transformation using Python
+- Large-scale data analysis using Databricks & Spark SQL
+- Building Silver & Gold analytical data layers for business reporting
 
-• Entry-level Data Analyst with strong hands-on project experience
-• Experienced analyzing 50K+ row datasets and real business KPIs
-• Skilled in SQL analytics, dashboard development, and data storytelling
-• Interested in Product Analytics, Customer Behavior, Retention, and Revenue Insights
-• Passionate about turning messy raw data into decision-ready insights
-
-## 🛠️ Tech Stack
-📊 Data Visualization
-
-• Power BI — DAX, KPI dashboards, data modeling, interactive reports
-• Excel — Power Query, Pivot Tables, business reporting
-
-🗄️ Data Querying & Processing
-
-• SQL / MySQL — Joins, CTEs, Window Functions, Aggregations
-• Spark SQL (Databricks) — large-scale data analysis
-
-## ☁️ Cloud & Data Platforms
-
-• Databricks — Lakehouse analytics, distributed query processing
-• AWS S3 — data lake storage
-• Amazon Athena — SQL analytics on S3 data lake
-
-## 🐍 Programming
-
-• Python — Pandas, NumPy (data cleaning and preparation)
-
-## 📊 Key Analytics Skills
-
-• Customer Retention Analysis
-• Cohort Analysis & Churn Analysis
-• Business KPI Tracking
-• Revenue & Profit Analysis
-• Data Cleaning & Transformation
-• Data Modeling & Dashboard Design
-• Data Storytelling for business decisions
+I enjoy solving real business problems using data and building analytics solutions that support decision-making in modern product and e-commerce companies.
 
 ---
 
-## 🎯 What I Focus On
+# 🔍 About Me
 
-• Solving real business problems with analytics
-• Building professional dashboards and reports
-• Understanding customer behavior and product performance
-• Delivering data-driven recommendations
+- Entry-level Data Analyst with strong hands-on project experience
+- Built multiple end-to-end analytics projects using real-world business scenarios
+- Experienced working with 30K–50K+ row datasets
+- Skilled in transforming raw datasets into business-ready insights
+- Strong understanding of customer behavior, retention, churn, and revenue analysis
+- Experience building Silver and Gold analytical tables in Databricks
+- Passionate about business intelligence, analytics engineering, and data storytelling
 
 ---
 
-## 📫 Let’s Connect
+# 🛠️ Tech Stack
 
-• LinkedIn: https://www.linkedin.com/in/ankit5517  
-• Email: ankitkumargaya@gmail.com
+## 📊 Data Visualization & BI
+
+- Power BI
+  - DAX
+  - KPI Dashboards
+  - Data Modeling
+  - Drill-Through & Drill-Down
+  - Dynamic Filtering
+  - Interactive Reports
+
+- Excel
+  - Pivot Tables
+  - Pivot Charts
+  - Power Query
+  - Business Reporting
+
+---
+
+## 🗄️ Data Querying & Processing
+
+- SQL / MySQL
+  - Joins
+  - CTEs
+  - Window Functions
+  - Aggregations
+  - Subqueries
+  - KPI Validation
+
+- Databricks (Spark SQL)
+  - Large-scale analytical processing
+  - Distributed querying
+  - Retention & funnel analysis
+  - Cohort analytics
+  - Silver & Gold layer table creation
+  - Business-ready analytical modeling
+
+---
+
+# ☁️ Cloud & Data Platforms
+
+- Databricks
+  - Lakehouse analytics
+  - Big data processing
+  - Medallion Architecture (Bronze → Silver → Gold)
+
+- AWS S3
+  - Cloud-based data storage
+
+- Amazon Athena
+  - SQL analytics on S3 datasets
+
+---
+
+# 🐍 Programming
+
+- Python
+  - Pandas
+  - NumPy
+  - Data Cleaning
+  - Feature Engineering
+  - Data Preparation
+
+---
+
+# 📈 Key Analytics Skills
+
+- Customer Retention Analysis
+- Cohort Analysis
+- Churn Analysis
+- Funnel Analysis
+- Product Analytics
+- Revenue & Profit Analysis
+- Business KPI Tracking
+- Data Cleaning & Transformation
+- Data Modeling
+- Dashboard Design
+- Business Storytelling
+- Insight Generation
+- Medallion Architecture
+- Silver & Gold Layer Modeling
+
+---
+
+# 📊 Featured Project Domains
+
+## 🛒 E-Commerce Analytics
+- Customer retention analysis
+- Repeat purchase behavior
+- LTV & CAC analysis
+- Funnel optimization
+- Revenue growth analysis
+
+## 🏥 Healthcare Analytics
+- Patient analytics
+- Revenue intelligence
+- Provider performance
+- Facility utilization analysis
+
+## 🏬 Retail Analytics
+- Sales performance tracking
+- Regional profit analysis
+- Product category analysis
+- Delivery & payment insights
+
+---
+
+# 🎯 What I Focus On
+
+- Solving real business problems using analytics
+- Building scalable dashboards & KPI reporting systems
+- Understanding customer behavior and lifecycle trends
+- Creating data-driven recommendations
+- Improving business decision-making through insights
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Product Analytics
+- Analytics Engineering Concepts
+- Advanced DAX Optimization
+- Cloud-Based Data Workflows
+- Big Data Analytics using Spark
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn:  
+  https://www.linkedin.com/in/ankit5517
+
+- GitHub:  
+  https://github.com/ankitkumargaya
+
+- Email:  
+  ankitkumargaya@gmail.com
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy converting complex business problems into simple dashboards and actionable insights using data.
