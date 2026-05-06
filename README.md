@@ -13,6 +13,7 @@ My expertise includes:
 - Data cleaning and transformation using Python
 - Large-scale data analysis using Databricks & Spark SQL
 - Building Silver & Gold analytical data layers for business reporting
+- Implementing Dynamic Row-Level Security (Dynamic RLS)
 
 I enjoy solving real business problems using data and building analytics solutions that support decision-making in modern product and e-commerce companies.
 
@@ -26,6 +27,7 @@ I enjoy solving real business problems using data and building analytics solutio
 - Skilled in transforming raw datasets into business-ready insights
 - Strong understanding of customer behavior, retention, churn, and revenue analysis
 - Experience building Silver and Gold analytical tables in Databricks
+- Experience implementing Dynamic RLS in Power BI dashboards
 - Passionate about business intelligence, analytics engineering, and data storytelling
 
 ---
@@ -40,6 +42,7 @@ I enjoy solving real business problems using data and building analytics solutio
   - Data Modeling
   - Drill-Through & Drill-Down
   - Dynamic Filtering
+  - Dynamic Row-Level Security (RLS)
   - Interactive Reports
 
 - Excel
@@ -108,6 +111,7 @@ I enjoy solving real business problems using data and building analytics solutio
 - Data Cleaning & Transformation
 - Data Modeling
 - Dashboard Design
+- Dynamic Row-Level Security (RLS)
 - Business Storytelling
 - Insight Generation
 - Medallion Architecture
