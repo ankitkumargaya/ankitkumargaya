@@ -96,6 +96,7 @@ I enjoy solving real business problems using data and building analytics solutio
 - GitHub Copilot
 - Claude AI
 - Gemini AI
+- OpenAI Codex
 
 ### Used For
 
@@ -105,6 +106,8 @@ I enjoy solving real business problems using data and building analytics solutio
 - Documentation & reporting
 - Productivity enhancement
 - Analytical brainstorming
+- Code generation & debugging
+- Workflow automation assistance
 
 ---
 
