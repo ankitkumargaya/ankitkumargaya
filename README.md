@@ -14,6 +14,7 @@ My expertise includes:
 - Large-scale data analysis using Databricks & Spark SQL
 - Building Silver & Gold analytical data layers for business reporting
 - Implementing Dynamic Row-Level Security (Dynamic RLS)
+- Using AI tools to improve analytics productivity and workflow efficiency
 
 I enjoy solving real business problems using data and building analytics solutions that support decision-making in modern product and e-commerce companies.
 
@@ -28,6 +29,7 @@ I enjoy solving real business problems using data and building analytics solutio
 - Strong understanding of customer behavior, retention, churn, and revenue analysis
 - Experience building Silver and Gold analytical tables in Databricks
 - Experience implementing Dynamic RLS in Power BI dashboards
+- Familiar with AI-assisted analytics workflows and productivity tools
 - Passionate about business intelligence, analytics engineering, and data storytelling
 
 ---
@@ -85,6 +87,24 @@ I enjoy solving real business problems using data and building analytics solutio
 
 - Amazon Athena
   - SQL analytics on S3 datasets
+
+---
+
+# 🤖 AI Tools
+
+- ChatGPT
+- GitHub Copilot
+- Claude AI
+- Gemini AI
+
+### Used For
+
+- SQL query optimization
+- DAX debugging
+- Data analysis assistance
+- Documentation & reporting
+- Productivity enhancement
+- Analytical brainstorming
 
 ---
 
