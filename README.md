@@ -194,7 +194,7 @@ I enjoy solving real business problems using data and building analytics solutio
   https://github.com/ankitkumargaya
 
 - Email:  
-  ankitkumar473mail@gmail.com
+  ankitkumar.analytic@gmail.com
 
 ---
 
