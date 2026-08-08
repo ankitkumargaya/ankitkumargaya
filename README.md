@@ -24,7 +24,7 @@ I enjoy solving real business problems using data and building analytics solutio
 
 - Entry-level Data Analyst with strong hands-on project experience
 - Built multiple end-to-end analytics projects using real-world business scenarios
-- Experienced working with 30K–50K+ row datasets
+- Experienced working with 1-2M row datasets
 - Skilled in transforming raw datasets into business-ready insights
 - Strong understanding of customer behavior, retention, churn, and revenue analysis
 - Experience building Silver and Gold analytical tables in Databricks
