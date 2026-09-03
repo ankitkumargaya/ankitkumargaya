@@ -68,7 +68,9 @@ End-to-end analytics case study diagnosing why growth stalled — tracing the fu
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Visualization & BI
+<details open>
+<summary><b>📊 Data Visualization & BI</b></summary>
+<br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/DAX-1F3864?style=flat-square">
@@ -79,7 +81,11 @@ End-to-end analytics case study diagnosing why growth stalled — tracing the fu
 
 **Skills:** KPI Dashboards · Data Modeling · Drill-Through & Drill-Down · Dynamic Filtering · Interactive Reports · Pivot Tables & Charts · Business Reporting
 
-### 🗄️ Data Querying & Processing
+</details>
+
+<details>
+<summary><b>🗄️ Data Querying & Processing</b></summary>
+<br>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -90,7 +96,11 @@ End-to-end analytics case study diagnosing why growth stalled — tracing the fu
 
 **Skills:** Joins · CTEs · Window Functions · Aggregations · Subqueries · KPI Validation · Retention & Funnel Analysis · Cohort Analytics · Silver & Gold Layer Modeling
 
-### ☁️ Cloud & Data Platforms
+</details>
+
+<details>
+<summary><b>☁️ Cloud & Data Platforms</b></summary>
+<br>
 
 <img src="https://img.shields.io/badge/Databricks_Lakehouse-FF3621?style=flat-square&logo=databricks&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
@@ -99,12 +109,18 @@ End-to-end analytics case study diagnosing why growth stalled — tracing the fu
 
 **Skills:** Big Data Processing · Bronze → Silver → Gold Modeling · Cloud-Based Data Storage · SQL Analytics on S3 Datasets
 
-### 🤖 AI-Assisted Analytics Workflow
+</details>
+
+<details>
+<summary><b>🤖 AI-Assisted Analytics Workflow</b></summary>
+<br>
 
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
 
 **Focus:** Using AI tools to speed up EDA, query drafting, and dashboard documentation — while validating every output against the raw data before it reaches a report.
+
+</details>
 
 ---
 
