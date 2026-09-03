@@ -1,203 +1,148 @@
-# 👋 Hi, I'm Ankit Kumar
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ankit+Kumar+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+Into+Business+Decisions;Databricks+%7C+Spark+SQL+%7C+AWS" alt="Typing SVG" />
+</p>
 
-## 🚀 Data Analyst | SQL • Power BI • Python • Databricks • Spark SQL • AWS
+<p align="center">
+<img src="https://img.shields.io/badge/Role-Data%20Analyst-1F3864?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Retention%20%26%20Product%20Analytics-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/Location-Gaya%2C%20Bihar%2C%20India-D9822B?style=for-the-badge">
+</p>
 
-I am a Data Analyst focused on transforming raw data into actionable business insights through analytics, dashboarding, and storytelling.
-
-My expertise includes:
-
-- SQL analytics & KPI reporting
-- Interactive dashboard development in Power BI
-- Customer retention & cohort analysis
-- Product & revenue analytics
-- Data cleaning and transformation using Python
-- Large-scale data analysis using Databricks & Spark SQL
-- Building Silver & Gold analytical data layers for business reporting
-- Implementing Dynamic Row-Level Security (Dynamic RLS)
-- Using AI tools to improve analytics productivity and workflow efficiency
-
-I enjoy solving real business problems using data and building analytics solutions that support decision-making in modern product and e-commerce companies.
+<p align="center">
+<a href="https://www.linkedin.com/in/ankit5517"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/ankitkumargaya"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:ankitkumar.analytic@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-# 🔍 About Me
+I'm a Data Analyst focused on transforming raw data into actionable business insights through analytics, dashboarding, and storytelling — building analytics solutions that support real decision-making in modern product and e-commerce companies.
 
-- Entry-level Data Analyst with strong hands-on project experience
-- Built multiple end-to-end analytics projects using real-world business scenarios
-- Experienced working with 1-2M row datasets
-- Skilled in transforming raw datasets into business-ready insights
-- Strong understanding of customer behavior, retention, churn, and revenue analysis
-- Experience building Silver and Gold analytical tables in Databricks
-- Experience implementing Dynamic RLS in Power BI dashboards
-- Familiar with AI-assisted analytics workflows and productivity tools
-- Passionate about business intelligence, analytics engineering, and data storytelling
+<p align="center">
+<img src="https://img.shields.io/badge/6_End--to--End_Projects-1F3864?style=flat-square">
+<img src="https://img.shields.io/badge/1--2M_Row_Datasets-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Bronze→Silver→Gold_Architecture-B71C1C?style=flat-square">
+<img src="https://img.shields.io/badge/Dynamic_RLS-C9A227?style=flat-square">
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 🔍 About Me
 
-## 📊 Data Visualization & BI
-
-- Power BI
-  - DAX
-  - KPI Dashboards
-  - Data Modeling
-  - Drill-Through & Drill-Down
-  - Dynamic Filtering
-  - Dynamic Row-Level Security (RLS)
-  - Interactive Reports
-
-- Excel
-  - Pivot Tables
-  - Pivot Charts
-  - Power Query
-  - Business Reporting
+- 🎯 Entry-level Data Analyst with strong, hands-on end-to-end project experience
+- 🧱 Built multiple analytics projects on real-world business scenarios — E-Commerce, Healthcare, Retail, Telecom, HR
+- 📊 Experienced working with 1–2M row datasets, transformed into business-ready insights
+- 🔁 Strong understanding of customer behavior, retention, churn, and revenue analysis
+- 🏗️ Experience building Silver and Gold analytical tables in Databricks (Medallion Architecture)
+- 🔐 Experience implementing Dynamic Row-Level Security (RLS) in Power BI dashboards
+- 🤖 Familiar with AI-assisted analytics workflows and productivity tools
+- 📈 Passionate about business intelligence, analytics engineering, and data storytelling
 
 ---
 
-## 🗄️ Data Querying & Processing
+## 🌟 Featured Project
 
-- SQL / MySQL
-  - Joins
-  - CTEs
-  - Window Functions
-  - Aggregations
-  - Subqueries
-  - KPI Validation
+<table>
+<tr>
+<td width="60%">
 
-- Databricks (Spark SQL)
-  - Large-scale analytical processing
-  - Distributed querying
-  - Retention & funnel analysis
-  - Cohort analytics
-  - Silver & Gold layer table creation
-  - Business-ready analytical modeling
+### 🚀 E-Commerce Customer Retention & Growth Analysis
+End-to-end analytics case study diagnosing why growth stalled — tracing the full customer journey from acquisition to checkout to repeat purchase using a **What → Why → Action → Risk** framework.
 
----
+**Highlights:**
+- Second-order conversion collapse: 96% → 16%
+- Checkout leak: 46% cart-to-checkout abandonment
+- Databricks (Spark SQL) Bronze→Silver→Gold pipeline
+- 7-page interactive Power BI dashboard with drill-through, field parameters & dynamic RLS
 
-# ☁️ Cloud & Data Platforms
+<a href="https://github.com/ankitkumargaya/ecommerce-retention-growth-analysis"><img src="https://img.shields.io/badge/View_Project-1F3864?style=for-the-badge&logo=github&logoColor=white"></a>
 
-- Databricks
-  - Lakehouse analytics
-  - Big data processing
-  - Medallion Architecture (Bronze → Silver → Gold)
-
-- AWS S3
-  - Cloud-based data storage
-
-- Amazon Athena
-  - SQL analytics on S3 datasets
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/ankitkumargaya/ecommerce-retention-growth-analysis/main/images/overview.png" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
-# 🤖 AI Tools
+## 🛠️ Tech Stack
 
-- ChatGPT
-- GitHub Copilot
-- Claude AI
-- Gemini AI
-- OpenAI Codex
+<details open>
+<summary><b>📊 Data Visualization & BI</b></summary>
+<br>
 
-### Used For
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/DAX-1F3864?style=flat-square">
+<img src="https://img.shields.io/badge/Dynamic_RLS-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Drill--Through-00796B?style=flat-square">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Query-C9A227?style=flat-square">
 
-- SQL query optimization
-- DAX debugging
-- Data analysis assistance
-- Documentation & reporting
-- Productivity enhancement
-- Analytical brainstorming
-- Code generation & debugging
-- Workflow automation assistance
+**Skills:** KPI Dashboards · Data Modeling · Drill-Through & Drill-Down · Dynamic Filtering · Interactive Reports · Pivot Tables & Charts · Business Reporting
 
----
+</details>
 
-# 🐍 Programming
+<details>
+<summary><b>🗄️ Data Querying & Processing</b></summary>
+<br>
 
-- Python
-  - Pandas
-  - NumPy
-  - Data Cleaning
-  - Feature Engineering
-  - Data Preparation
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 
----
+**Skills:** Joins · CTEs · Window Functions · Aggregations · Subqueries · KPI Validation · Retention & Funnel Analysis · Cohort Analytics · Silver & Gold Layer Modeling
 
-# 📈 Key Analytics Skills
+</details>
 
-- Customer Retention Analysis
-- Cohort Analysis
-- Churn Analysis
-- Funnel Analysis
-- Product Analytics
-- Revenue & Profit Analysis
-- Business KPI Tracking
-- Data Cleaning & Transformation
-- Data Modeling
-- Dashboard Design
-- Dynamic Row-Level Security (RLS)
-- Business Storytelling
-- Insight Generation
-- Medallion Architecture
-- Silver & Gold Layer Modeling
+<details>
+<summary><b>☁️ Cloud & Data Platforms</b></summary>
+<br>
 
----
+<img src="https://img.shields.io/badge/Databricks_Lakehouse-FF3621?style=flat-square&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Medallion_Architecture-1F3864?style=flat-square">
 
-# 📊 Featured Project Domains
+**Skills:** Big Data Processing · Bronze → Silver → Gold Modeling · Cloud-Based Data Storage · SQL Analytics on S3 Datasets
 
-## 🛒 E-Commerce Analytics
-- Customer retention analysis
-- Repeat purchase behavior
-- LTV & CAC analysis
-- Funnel optimization
-- Revenue growth analysis
+</details>
 
-## 🏥 Healthcare Analytics
-- Patient analytics
-- Revenue intelligence
-- Provider performance
-- Facility utilization analysis
+<details>
+<summary><b>🤖 AI-Assisted Analytics Workflow</b></summary>
+<br>
 
-## 🏬 Retail Analytics
-- Sales performance tracking
-- Regional profit analysis
-- Product category analysis
-- Delivery & payment insights
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white">
+
+**Focus:** Using AI tools to speed up EDA, query drafting, and dashboard documentation — while validating every output against the raw data before it reaches a report.
+
+</details>
 
 ---
 
-# 🎯 What I Focus On
+## 📊 GitHub Stats
 
-- Solving real business problems using analytics
-- Building scalable dashboards & KPI reporting systems
-- Understanding customer behavior and lifecycle trends
-- Creating data-driven recommendations
-- Improving business decision-making through insights
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkumargaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumargaya&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
----
-
-# 📚 Currently Learning
-
-- Advanced Product Analytics
-- Analytics Engineering Concepts
-- Advanced DAX Optimization
-- Cloud-Based Data Workflows
-- Big Data Analytics using Spark
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumargaya&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Let's Connect
 
-- LinkedIn:  
-  https://www.linkedin.com/in/ankit5517
+<p align="center">
+<a href="https://www.linkedin.com/in/ankit5517"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ankitkumar.analytic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/ankitkumargaya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-- GitHub:  
-  https://github.com/ankitkumargaya
-
-- Email:  
-  ankitkumar.analytic@gmail.com
-
----
-
-# ⚡ Fun Fact
-
-I enjoy converting complex business problems into simple dashboards and actionable insights using data.
+<p align="center"><i>Open to Data Analyst roles — always happy to talk about retention, cohort analysis, or Power BI dashboards over a coffee ☕</i></p>
